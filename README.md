@@ -16,3 +16,8 @@ UI and functionality were made through the use od fierrent Cocoapod libraries an
 - iOS Navigation Controller
 - Creating custom UI screens/elements  with .xib files
 
+## Next Steps
+- [ ] user cutomization (text bubble colors, and themes)
+- [ ] direct messaging to users
+- [ ] multiple chat rooms
+
